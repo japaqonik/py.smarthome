@@ -1,0 +1,3 @@
+[submodule "py.modules"]
+	path = py.modules
+	url = git@github.com:japaqonik/py.modules.git
